@@ -33,9 +33,9 @@ You can see the [python notebook](https://github.com/group-cva/teledetection/blo
 
 # Getting Started
 ### Installation process
-Use pip to install requirements
+Use pip to install requirements in a python environment 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 # Results of QC on hyperspectral
