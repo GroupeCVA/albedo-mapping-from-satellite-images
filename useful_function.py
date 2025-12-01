@@ -1,7 +1,6 @@
 import pandas as pd
 from scipy import integrate as intg
 import ee
-import folium
 
 def coefficients_calculation(bands_list, irradiance_file, min_spectrum, max_spectrum):
     """
